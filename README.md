@@ -17,5 +17,5 @@ Presict label of Fashion that drew on canvas in website, I try the excercise in 
 predict gender using Machine Learning Model with Colab and Using Webcam with OpenCV, I try the excercise from Balaji Srivasan Channel Youtube
 
 
-## *conver-model-to-js*
+## *convert-model-to-js*
 converting the simple one model in python code that output with ".h5", I try to excecute the model with tensorflowjs
