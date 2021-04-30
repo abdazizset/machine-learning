@@ -22,8 +22,8 @@ converting the simple one model in python code that output with ".h5", I try to 
 
 
 ## *standar for commit message*
-[CREATE]  for creating a new one in this repo\n
-[ADD]     for adding in the repo and its new one not to change the old\n
-[CHANGE]  for changing the old one by new one\n
-[DELETE]  for deleting the mistake or not good result\n
-[DEBUG]   for resolving the bugging in this repo\n
+[CREATE]  for creating a new one in this repo \n
+[ADD]     for adding in the repo and its new one not to change the old \n
+[CHANGE]  for changing the old one by new one \n
+[DELETE]  for deleting the mistake or not good result \n
+[DEBUG]   for resolving the bugging in this repo \n
